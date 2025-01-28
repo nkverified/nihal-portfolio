@@ -176,7 +176,8 @@ export default function Home() {
                       
                       </div>
 
-                      <Button variant="ghost" size="icon">-></Button>
+                      <Button variant="ghost" size="icon"> {'->'}</Button>
+
                     </div>
                   </CardContent>
                 </Card>
