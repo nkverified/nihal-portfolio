@@ -146,7 +146,8 @@ export default function Home() {
                 <div className="space-y-1">
                   
                   <p className="font-medium">Higher Secondary: Biology Science</p>
-                  <p className="text-blue-600 dark:text-blue-400">St.Joseph's HSS,Peruvanthanam</p>
+                  <p className="text-blue-600 dark:text-blue-400">St.Joseph&apos;s HSS,Peruvanthanam</p>
+
                   <p className="text-sm text-gray-600 dark:text-gray-400">April,2011-2013</p>
                 </div>
               </div>
