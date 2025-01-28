@@ -72,9 +72,7 @@ export default function Home() {
               className="flex items-center gap-3"
             >
               <Button 
-                as="a" 
-                href="/arunjo.pdf" 
-                target="_blank" 
+                
                 rel="noopener noreferrer" 
                 className="rounded-full bg-gradient-to-r from-rose-600 to-indigo-600 text-white transition-transform hover:scale-105"
               >
