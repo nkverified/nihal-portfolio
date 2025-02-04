@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Modern Portfolio Website
 
-## Getting Started
+This is a **Modern Portfolio Website** built using **Next.js, Tailwind CSS, ShadCN, and Framer Motion**. The project features smooth animations, a dark mode toggle, and a professional design suitable for developers and designers looking to showcase their work.
 
-First, run the development server:
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://arunjo-portfolio-web.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Features
+- **Built with Next.js** for server-side rendering and optimized performance
+- **Framer Motion** for smooth animations and transitions
+- **ShadCN components** (Button & Card) for UI consistency
+- **Dark Mode** enabled using **Next Themes**
+- **Responsive Design** with Tailwind CSS
+- **Deployed on Vercel** for easy access
+
+## 🛠️ Tech Stack
+- **Next.js** - React Framework
+- **Tailwind CSS** - Utility-first styling
+- **Framer Motion** - Animation Library
+- **ShadCN** - UI components library
+- **React Icons** - Icons for UI elements
+
+## 📂 Project Structure
+```
+├── app
+│   ├── layout.tsx          # Root layout and theming
+│   ├── page.tsx            # Main page
+│   ├── components
+│   │   ├── ThemeToggle.tsx # Dark mode toggle button
+│   │   ├── Button.tsx      # Reusable button component
+│   │   ├── Card.tsx        # Project card component
+│   ├── public
+│   │   ├── images          # Portfolio images
+├── styles
+│   ├── globals.css         # Global styles
+│   ├── tailwind.config.js  # Tailwind configuration
+├── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 UI & Animations
+- **Header Section:** Includes profile image and dark mode toggle.
+- **Hero Section:** Animated introduction with name and job title.
+- **Experience & Education Section:** Dynamic cards for work and education history.
+- **Projects Section:** Grid-based project showcase with hover effects.
+- **Footer:** Copyright information.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏗️ Installation & Setup
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/jijojacob988/modern-portfolio.git
+cd modern-portfolio
+```
+### 2️⃣ Install Dependencies
+```sh
+npm install
+```
+### 3️⃣ Run Development Server
+```sh
+npm run dev
+```
+Now, open **http://localhost:3000** in your browser to see the project live.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Deployment
+The project is deployed on **Vercel**. You can visit it here:
+🔗 **[Live Demo](https://arunjo-portfolio-web.vercel.app/)**
 
-## Learn More
+To deploy manually:
+1. Push your project to a GitHub repository.
+2. Go to [Vercel](https://vercel.com/) and connect your repository.
+3. Click **Deploy** and your site will be live!
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
+![Portfolio Preview](public/preview.png)
+![Portfolio UI](public/arun.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
+Pull requests are welcome! If you have any suggestions, feel free to open an issue or contribute to improve the project.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 License
+This project is open-source and available under the **MIT License**.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️ by **Jijo Jacob**
