@@ -116,41 +116,10 @@ export default function Home() {
             </div>
           </motion.section>
 
-          <motion.section
-           initial={{ opacity: 0, y: 100 }}
-           animate={{ opacity: 1, x: 0 }}
-           transition={{ duration: 0.8 }}
-           className="space-y-8"
-          >
-            <h2 className="text-3xl font-semibold bg-gradient-to-r from-rose-600 via-indigo-500 to-sky-500 bg-clip-text text-transparent inline-block">Education</h2>
-            <div className="space-y-2">
-              <div className="flex items-center justify-between">
-                <div className="space-y-1">
-                  
-                  <p className="font-medium">B.Tech:Electronics And Communication Engineering</p>
-                  <p className="text-blue-600 dark:text-blue-400">MBC College,Kuttikkanam</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-400">April,2013-2017</p>
-                </div>
-              </div>
-              
-            </div>
 
-            <div className="space-y-2">
-              <div className="flex items-center justify-between">
-                <div className="space-y-1">
-                  
-                  <p className="font-medium">Higher Secondary: Biology Science</p>
-                  <p className="text-blue-600 dark:text-blue-400">St.Joseph&apos;s HSS,Peruvanthanam</p>
+                
 
-                  <p className="text-sm text-gray-600 dark:text-gray-400">April,2011-2013</p>
-                </div>
-              </div>
-             
-            </div>
-
-            
-
-          </motion.section>
+     
 
           <motion.section
           initial={{ opacity: 0, y: 100 }}
@@ -257,7 +226,7 @@ export default function Home() {
                   </CardContent>
                 </Card>
               </div>
-              <p className="text-gray-500">@ 2025 Arun Jo Cherian</p>
+              <p className="text-gray-500">@ 2025 Nihal Krishna </p>
           </motion.section>
         </main>
       </div>
