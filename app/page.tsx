@@ -46,9 +46,9 @@ export default function Home() {
               className="space-y-1"
             >
               <h1 className="text-4xl font-bold bg-gradient-to-r from-rose-600 via-indigo-500 to-sky-500 bg-clip-text text-transparent inline-block">
-                Arun Jo Cherian
+              Nihal Krishna
               </h1>
-              <p className="text-gray-600 dark:text-gray-400 font-extrabold">Salesforce Developer</p>
+              <p className="text-gray-600 dark:text-gray-400 font-extrabold">Developer</p>
               <p className="text-gray-600 dark:text-gray-400 font-extralight">Kochi, Kerala</p>
             </motion.div>
 
@@ -60,7 +60,7 @@ export default function Home() {
             >
               <h2 className="text-lg font-semibold">Building Scalable Solutions for Tomorrow </h2>
 <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
-  Experienced Salesforce Developer skilled in designing and optimizing CRM workflows. Proficient in Apex, Visualforce, and Lightning, with hands-on experience in developing triggers, Apex classes, and Lightning Web Components (LWC). Strong in technical documentation, teamwork, and delivering scalable solutions tailored to dynamic business needs.
+  https://www.instagram.com/n4ni_hal_/?igsh=bnBmaGs2N2J5Zm1i#
 </p>
 
             </motion.div>
@@ -78,15 +78,11 @@ export default function Home() {
               >
                 Resume
               </Button>
-              <Link href="https://www.linkedin.com/in/arun-jo-cherian-0180ab178" target="_blank" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">
-                <FaLinkedinIn className="w-6 h-6" />
-              </Link>
-              <Link href="https://www.instagram.com/_arun.jo_" target="_blank" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">
+              
+              <Link href="https://www.instagram.com/n4ni_hal_/?igsh=bnBmaGs2N2J5Zm1i#" target="_blank" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">
                 <FaInstagram className="w-6 h-6" />
               </Link>
-              <Link href="https://www.facebook.com" target="_blank" className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">
-                <FaFacebook className="w-6 h-6" />
-              </Link>
+         
             </motion.div>
           </section>
 
@@ -102,13 +98,13 @@ export default function Home() {
               <div className="flex items-center justify-between">
                 <div className="space-y-1">
                   
-                  <p className="font-semibold text-lg">Salesforce Developer/Admin</p>
-                  <p className="text-blue-600 dark:text-blue-400">Tata Consultancy Services</p>
+                  <p className="font-semibold text-lg">Developer/Ceo</p>
+                  <p className="text-blue-600 dark:text-blue-400">NK TECH SOLUTIONS</p>
                   <p className="text-sm text-gray-600 dark:text-gray-400">July, 2019-Present</p>
                 </div>
               </div>
               <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
-  <span className="text-black dark:text-white font-semibold">Salesforce Developer & Administrator</span> with over 5 years of experience in customizing applications on the Salesforce platform. Expertise in developing <span className="text-black dark:text-white font-semibold">Lightning flows</span>, <span className="text-black dark:text-white font-semibold">Apex triggers</span>, and <span className="text-black dark:text-white font-semibold">LWC</span> to streamline processes and enhance user experiences.
+  <span className="text-black dark:text-white font-semibold">Salesforce Developer & Administrator</span> with over 3 years of experience in customizing applications on the Salesforce platform. Expertise in developing <span className="text-black dark:text-white font-semibold">Lightning flows</span>, <span className="text-black dark:text-white font-semibold">Apex triggers</span>, and <span className="text-black dark:text-white font-semibold">LWC</span> to streamline processes and enhance user experiences.
 </p>
 <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
   Proficient in creating <span className="text-black dark:text-white font-semibold">workflow rules</span>, <span className="text-black dark:text-white font-semibold">validation rules</span>, and configuring <span className="text-black dark:text-white font-semibold">role hierarchies</span> to align with business logic and user requirements. Experienced in <span className="text-black dark:text-white font-semibold">CPQ</span> and designing dynamic templates using <span className="text-black dark:text-white font-semibold">X-Author for Word</span>. Skilled in building customized dashboards and reports, including <span className="text-black dark:text-white font-semibold">summary</span> and <span className="text-black dark:text-white font-semibold">matrix reports</span>, to provide actionable business insights.
