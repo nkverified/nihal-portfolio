@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import pp from '../public/ppp.png';
+import pp from '..public/473763001_4231966960364006_3277313758323699123_n.jpg';
 
 import ThemeToggle from '../components/theme-toggle';
 import { motion } from 'framer-motion';
@@ -29,7 +29,7 @@ export default function Home() {
         >
           <div className="w-20 h-20 rounded-full overflow-hidden">
             <Image 
-              src={pp} 
+              src={public/473763001_4231966960364006_3277313758323699123_n.jpg} 
               alt="profile picture" 
               className="cursor-pointer transition-all duration-300 hover:scale-110"
             />
